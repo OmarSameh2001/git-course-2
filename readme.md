@@ -8,3 +8,5 @@ by using: git tag
 # 4- delete tag
 1- locally: git tag -d <tag-name>
 2- remotely: git push origin :<tag-name>
+# 5- add image
+![Alt text](https://shorturl.at/Q0EuS)
