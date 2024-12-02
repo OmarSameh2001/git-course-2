@@ -1,3 +1,6 @@
+# Omar Sameh Mohamed
+Omar Sameh Mohamed
+omarsameh20017@gmail.com
 # 1- remove branches
 1- locally: git branch -d (branch-name)
 2- remotely: git push origin :(branch-main)
